@@ -1,7 +1,6 @@
 {
-  "name": "race_replay",
+  "name": "whilte_whale_front_end",
   "version": "1.0.0",
-  "description": "F1 22 telemetry replayer.",
   "main": "src/main.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,11 +10,6 @@
     "start": "webpack-dev-server --open --mode development --hot",
     "build": "webpack --mode production"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kens-git/race_replay.git"
-  },
-  "author": "Ken Montgomery",
   "license": "GPLV3",
   "devDependencies": {
     "@babel/core": "^7.20.12",
