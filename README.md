@@ -1,5 +1,11 @@
 <h1>About</h1>
-<p>A race replay UI for data parsed and filter from EA's F1 22 UDP telemetry data. Designed to consume data produced from my <a href="https://github.com/kens-git/f122_telemetry_parser">telemetry parser and filter</a>.</p>
-<p>UI design generously provided by <a href="https://www.linkedin.com/in/arthurlucena">Arthur Lucena</a>.</p>
+<p>The front end for the <a href="https://github.com/kens-git/white_whale">White Whale</a> project.</p>
 
-<img src="previews/dark.png" width=100% />
+<h1>Setup</h1>
+<p>With a recent version of Nodejs and npm, clone the repo and run npm in the project directory:</p>
+<code>npm i</code>
+<p>To start the development server:</p>
+<code>npm run start</code>
+<p>A browser should show the page automatically. If not, go to:</p>
+<code>localhost:8080</code>
+<p>in your preferred web browser.</p>
